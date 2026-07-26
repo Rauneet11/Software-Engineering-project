@@ -1,0 +1,501 @@
+date,product,category,quantity,price,discount,revenue,region,salesperson
+2023-01-02,Webcam HD,Computing,20,3058.7,17.1,50713.25,South,Rahul Sharma
+2023-01-02,Wireless Earbuds,Accessories,2,4346.02,22.0,6779.79,South,Sneha Gupta
+2023-01-03,DSLR Camera,Electronics,14,44331.8,17.8,510170.35,East,Rahul Sharma
+2023-01-03,Smartwatch Pro,Wearables,9,19935.39,4.3,171703.51,South,Vijay Kumar
+2023-01-03,LED Desk Lamp,Accessories,25,1324.98,2.8,32197.01,West,Amit Patel
+2023-01-03,Wi-Fi Router,Networking,2,4430.43,0.4,8825.42,North,Sneha Gupta
+2023-01-04,Mechanical Keyboard,Accessories,24,3203.8,2.2,75199.59,West,Amit Patel
+2023-01-06,Graphics Tablet,Electronics,3,12835.52,6.5,36003.63,South,Vijay Kumar
+2023-01-07,Smart Speaker,Electronics,12,5167.71,11.7,54757.06,West,Vijay Kumar
+2023-01-07,Portable SSD,Computing,6,7221.23,17.0,35961.73,West,Rahul Sharma
+2023-01-08,Wireless Earbuds,Accessories,16,4833.47,5.3,73236.74,West,Vijay Kumar
+2023-01-09,Network Switch,Networking,4,8323.87,26.5,24472.18,East,Sneha Gupta
+2023-01-10,Webcam HD,Computing,4,2792.23,26.5,8209.16,South,Vijay Kumar
+2023-01-12,Mechanical Keyboard,Accessories,22,3731.76,20.5,65268.48,Central,Amit Patel
+2023-01-12,Gaming Mouse,Accessories,9,2615.26,20.8,18641.57,North,Rahul Sharma
+2023-01-12,Graphics Tablet,Electronics,9,13693.58,20.8,97607.84,East,Amit Patel
+2023-01-15,Gaming Mouse,Accessories,23,2525.6,8.2,53325.52,North,Vijay Kumar
+2023-01-15,Gaming Mouse,Accessories,18,2430.99,6.7,40826.05,North,Sneha Gupta
+2023-01-17,Smart Speaker,Electronics,21,5525.37,7.3,107562.38,South,Amit Patel
+2023-01-17,Smart Speaker,Electronics,1,5553.15,12.3,4870.11,North,Vijay Kumar
+2023-01-20,Network Switch,Networking,13,9218.89,10.8,106902.25,Central,Sneha Gupta
+2023-01-21,4K Monitor,Computing,17,27815.11,10.0,425571.18,Central,Priya Singh
+2023-01-22,Power Bank 20000mAh,Accessories,2,2389.28,7.3,4429.73,South,Vijay Kumar
+2023-01-24,Laptop Pro 15,Electronics,10,54389.56,21.6,426414.15,West,Vijay Kumar
+2023-01-26,Wireless Earbuds,Accessories,24,4196.29,6.7,93963.33,North,Vijay Kumar
+2023-01-28,Network Switch,Networking,13,8734.33,19.9,90950.58,North,Sneha Gupta
+2023-01-29,4K Monitor,Computing,11,31618.94,25.2,260160.64,East,Priya Singh
+2023-01-31,4K Monitor,Computing,25,26159.83,24.3,495074.78,West,Vijay Kumar
+2023-02-01,Graphics Tablet,Electronics,2,17243.64,25.4,25727.51,West,Rahul Sharma
+2023-02-01,Smartwatch Pro,Wearables,3,19329.0,6.5,54217.85,West,Sneha Gupta
+2023-02-03,Mechanical Keyboard,Accessories,23,3364.06,13.3,67082.72,South,Amit Patel
+2023-02-03,Noise Cancelling Headphones,Accessories,20,7168.25,13.5,124010.73,East,Amit Patel
+2023-02-06,Network Switch,Networking,20,7399.47,18.9,120019.4,East,Priya Singh
+2023-02-07,Network Switch,Networking,12,9014.17,24.4,81776.55,Central,Rahul Sharma
+2023-02-08,Wi-Fi Router,Networking,22,3804.12,23.0,64441.79,South,Vijay Kumar
+2023-02-08,4K Monitor,Computing,6,27310.23,25.1,122732.17,North,Sneha Gupta
+2023-02-09,Smartwatch Pro,Wearables,10,20253.94,14.2,173778.81,South,Sneha Gupta
+2023-02-10,LED Desk Lamp,Accessories,20,1049.51,19.7,16855.13,Central,Vijay Kumar
+2023-02-10,Portable SSD,Computing,12,5934.65,7.5,65874.61,North,Amit Patel
+2023-02-11,Tablet Ultra,Electronics,25,18904.8,7.4,437646.12,North,Vijay Kumar
+2023-02-11,Gaming Mouse,Accessories,7,2751.94,9.8,17375.75,North,Priya Singh
+2023-02-12,LED Desk Lamp,Accessories,1,1049.24,28.5,750.21,Central,Amit Patel
+2023-02-12,Network Switch,Networking,25,9058.4,16.4,189320.56,West,Rahul Sharma
+2023-02-14,Graphics Tablet,Electronics,14,14389.35,21.6,157937.51,West,Vijay Kumar
+2023-02-14,Tablet Ultra,Electronics,8,24622.1,15.6,166248.42,East,Sneha Gupta
+2023-02-15,Gaming Mouse,Accessories,23,2211.31,25.5,37890.8,North,Priya Singh
+2023-02-16,Portable SSD,Computing,13,5624.76,16.9,60764.28,East,Vijay Kumar
+2023-02-17,Mechanical Keyboard,Accessories,3,3693.65,8.4,10150.15,Central,Vijay Kumar
+2023-02-17,Smartphone X12,Electronics,4,36324.88,25.1,108829.34,North,Rahul Sharma
+2023-02-17,Wi-Fi Router,Networking,13,3482.71,14.0,38936.7,East,Amit Patel
+2023-02-18,Portable SSD,Computing,21,6172.25,3.7,124821.41,East,Sneha Gupta
+2023-02-21,Smartphone X12,Electronics,10,34946.39,26.5,256855.97,West,Amit Patel
+2023-02-22,Mechanical Keyboard,Accessories,3,3641.0,24.9,8203.17,North,Rahul Sharma
+2023-02-22,Graphics Tablet,Electronics,7,13951.75,3.9,93853.42,East,Sneha Gupta
+2023-02-23,Tablet Ultra,Electronics,5,19738.91,18.5,80436.06,North,Amit Patel
+2023-02-23,DSLR Camera,Electronics,13,46695.66,21.8,474708.08,South,Sneha Gupta
+2023-02-24,Portable SSD,Computing,4,6377.32,25.2,19080.94,East,Vijay Kumar
+2023-02-26,Power Bank 20000mAh,Accessories,10,2309.61,19.7,18546.17,South,Rahul Sharma
+2023-02-27,LED Desk Lamp,Accessories,12,1202.64,9.3,13089.53,West,Rahul Sharma
+2023-03-01,Graphics Tablet,Electronics,18,14830.7,24.2,202350.07,North,Sneha Gupta
+2023-03-02,Tablet Ultra,Electronics,8,19144.84,0.9,151780.29,East,Rahul Sharma
+2023-03-02,Webcam HD,Computing,9,3552.37,3.8,30756.42,South,Priya Singh
+2023-03-03,Tablet Ultra,Electronics,6,21601.4,14.5,110815.18,South,Amit Patel
+2023-03-03,Tablet Ultra,Electronics,3,25208.51,14.2,64886.7,East,Sneha Gupta
+2023-03-04,Network Switch,Networking,24,8024.69,1.5,189703.67,West,Vijay Kumar
+2023-03-05,Wireless Earbuds,Accessories,18,5043.9,6.1,85252.0,Central,Priya Singh
+2023-03-05,LED Desk Lamp,Accessories,14,1258.48,3.9,16931.59,East,Amit Patel
+2023-03-06,Mechanical Keyboard,Accessories,19,3081.84,26.2,43213.56,South,Amit Patel
+2023-03-07,Wireless Earbuds,Accessories,16,4430.17,10.9,63156.5,Central,Rahul Sharma
+2023-03-10,Laser Printer,Computing,4,12338.2,13.4,42739.52,North,Priya Singh
+2023-03-11,Power Bank 20000mAh,Accessories,22,2438.8,12.1,47161.51,Central,Priya Singh
+2023-03-11,LED Desk Lamp,Accessories,1,1114.39,1.2,1101.02,North,Sneha Gupta
+2023-03-12,Laser Printer,Computing,25,12195.15,17.6,251220.09,South,Amit Patel
+2023-03-15,Smartwatch Pro,Wearables,2,16195.98,9.2,29411.9,Central,Amit Patel
+2023-03-16,Smart Speaker,Electronics,15,5358.83,18.9,65190.17,South,Sneha Gupta
+2023-03-16,Portable SSD,Computing,12,6898.85,19.9,66311.75,Central,Rahul Sharma
+2023-03-17,Gaming Mouse,Accessories,13,2503.19,22.9,25089.47,East,Vijay Kumar
+2023-03-18,Smartwatch Pro,Wearables,16,19520.24,8.0,287337.93,Central,Sneha Gupta
+2023-03-18,4K Monitor,Computing,7,24943.34,23.1,134270.0,North,Priya Singh
+2023-03-19,Laser Printer,Computing,19,12686.21,18.8,195722.85,North,Amit Patel
+2023-03-20,Graphics Tablet,Electronics,19,13369.63,11.0,226080.44,East,Amit Patel
+2023-03-20,Smart Speaker,Electronics,12,5090.3,7.4,56563.41,West,Vijay Kumar
+2023-03-22,DSLR Camera,Electronics,20,50006.33,18.6,814103.05,South,Sneha Gupta
+2023-03-24,USB-C Hub,Accessories,5,1611.45,11.5,7130.67,South,Priya Singh
+2023-03-25,USB-C Hub,Accessories,19,1888.35,27.5,26012.02,East,Sneha Gupta
+2023-03-25,4K Monitor,Computing,17,27552.68,21.1,369564.1,North,Vijay Kumar
+2023-03-26,DSLR Camera,Electronics,19,38666.62,22.8,567161.98,East,Rahul Sharma
+2023-03-27,Gaming Mouse,Accessories,25,2245.23,13.5,48553.1,Central,Priya Singh
+2023-03-28,DSLR Camera,Electronics,10,45208.6,19.0,366189.66,East,Rahul Sharma
+2023-03-28,Smartwatch Pro,Wearables,10,18318.18,19.3,147827.71,East,Priya Singh
+2023-03-30,Power Bank 20000mAh,Accessories,3,2074.13,30.0,4355.67,West,Vijay Kumar
+2023-03-30,USB-C Hub,Accessories,18,1776.64,11.1,28429.79,East,Vijay Kumar
+2023-03-31,Smartphone X12,Electronics,9,33771.66,12.6,265647.88,Central,Priya Singh
+2023-04-01,Graphics Tablet,Electronics,11,13885.79,3.5,147397.66,West,Vijay Kumar
+2023-04-04,Webcam HD,Computing,8,3504.04,26.5,20603.76,North,Sneha Gupta
+2023-04-06,Laptop Pro 15,Electronics,10,50406.34,20.8,399218.21,East,Vijay Kumar
+2023-04-06,Wi-Fi Router,Networking,21,4204.55,15.3,74786.33,North,Amit Patel
+2023-04-07,USB-C Hub,Accessories,18,1896.32,8.5,31232.39,Central,Priya Singh
+2023-04-08,Tablet Ultra,Electronics,1,20108.58,2.3,19646.08,Central,Priya Singh
+2023-04-08,Tablet Ultra,Electronics,17,19581.19,24.6,250991.69,North,Vijay Kumar
+2023-04-09,Wireless Earbuds,Accessories,17,4026.01,5.8,64472.52,Central,Amit Patel
+2023-04-11,Graphics Tablet,Electronics,2,15684.65,16.2,26287.47,North,Rahul Sharma
+2023-04-13,Graphics Tablet,Electronics,3,15169.35,15.2,38590.83,South,Amit Patel
+2023-04-13,Smartphone X12,Electronics,14,33218.08,14.2,399015.58,South,Rahul Sharma
+2023-04-14,4K Monitor,Computing,13,26134.98,19.1,274861.58,East,Priya Singh
+2023-04-19,Webcam HD,Computing,8,3138.25,12.0,22093.28,North,Sneha Gupta
+2023-04-20,Smart Speaker,Electronics,8,5304.25,10.8,37851.13,East,Amit Patel
+2023-04-20,Gaming Mouse,Accessories,11,2338.42,29.7,18083.0,Central,Vijay Kumar
+2023-04-21,Gaming Mouse,Accessories,19,2144.26,9.4,36911.29,West,Sneha Gupta
+2023-04-21,4K Monitor,Computing,12,30901.14,11.0,330024.18,East,Vijay Kumar
+2023-04-25,USB-C Hub,Accessories,10,1764.77,13.6,15247.61,East,Vijay Kumar
+2023-04-27,Smart Speaker,Electronics,3,5336.17,2.2,15656.32,North,Priya Singh
+2023-04-27,4K Monitor,Computing,1,29979.67,15.0,25482.72,West,Vijay Kumar
+2023-04-28,USB-C Hub,Accessories,15,2049.96,4.2,29457.93,South,Sneha Gupta
+2023-04-29,Mechanical Keyboard,Accessories,4,3754.54,4.7,14312.31,East,Vijay Kumar
+2023-05-02,Power Bank 20000mAh,Accessories,5,2513.55,11.8,11084.76,East,Vijay Kumar
+2023-05-02,Portable SSD,Computing,6,7461.05,11.8,39483.88,South,Priya Singh
+2023-05-04,Power Bank 20000mAh,Accessories,19,2386.54,10.4,40628.46,West,Amit Patel
+2023-05-05,Smart Speaker,Electronics,1,6280.69,18.3,5131.32,South,Priya Singh
+2023-05-05,Smartwatch Pro,Wearables,1,15633.01,23.4,11974.89,South,Priya Singh
+2023-05-08,USB-C Hub,Accessories,24,2016.03,15.2,41030.24,West,Amit Patel
+2023-05-08,Graphics Tablet,Electronics,15,15849.05,21.0,187811.24,East,Vijay Kumar
+2023-05-09,Network Switch,Networking,5,8907.36,28.4,31888.35,South,Amit Patel
+2023-05-10,Gaming Mouse,Accessories,21,2776.35,14.7,49732.76,North,Vijay Kumar
+2023-05-13,DSLR Camera,Electronics,14,45038.66,26.0,466600.52,North,Vijay Kumar
+2023-05-14,USB-C Hub,Accessories,21,2059.09,4.8,41165.33,West,Vijay Kumar
+2023-05-14,Portable SSD,Computing,18,5641.96,28.7,72408.91,Central,Amit Patel
+2023-05-17,Graphics Tablet,Electronics,15,15754.1,29.6,166363.3,Central,Amit Patel
+2023-05-17,USB-C Hub,Accessories,2,1720.24,10.2,3089.55,South,Sneha Gupta
+2023-05-18,Smart Speaker,Electronics,17,5447.23,5.8,87231.94,North,Amit Patel
+2023-05-18,Tablet Ultra,Electronics,11,19477.89,9.2,194545.17,South,Amit Patel
+2023-05-19,DSLR Camera,Electronics,25,46910.59,21.9,915929.27,West,Amit Patel
+2023-05-20,Wi-Fi Router,Networking,3,3731.5,23.7,8541.4,West,Amit Patel
+2023-05-21,Smartphone X12,Electronics,23,33246.93,14.2,656094.92,West,Priya Singh
+2023-05-21,Webcam HD,Computing,21,2942.18,21.2,48687.19,North,Priya Singh
+2023-05-21,Laptop Pro 15,Electronics,23,46937.28,14.9,918703.38,East,Vijay Kumar
+2023-05-22,4K Monitor,Computing,17,27945.53,22.7,367232.21,North,Priya Singh
+2023-05-24,Wireless Earbuds,Accessories,2,5102.45,9.1,9276.25,West,Rahul Sharma
+2023-05-24,Wireless Earbuds,Accessories,25,3991.26,21.9,77929.35,East,Sneha Gupta
+2023-05-24,USB-C Hub,Accessories,8,1679.56,2.5,13100.57,Central,Vijay Kumar
+2023-05-27,LED Desk Lamp,Accessories,8,1186.01,7.6,8766.99,East,Rahul Sharma
+2023-05-28,Power Bank 20000mAh,Accessories,11,2438.58,9.6,24249.24,East,Sneha Gupta
+2023-05-28,Portable SSD,Computing,7,6699.8,12.0,41270.77,North,Rahul Sharma
+2023-05-30,Wireless Earbuds,Accessories,9,4091.32,18.1,30157.12,North,Priya Singh
+2023-06-01,Noise Cancelling Headphones,Accessories,22,7381.27,17.2,134457.21,North,Priya Singh
+2023-06-01,Laptop Pro 15,Electronics,19,58377.49,4.2,1062587.07,North,Vijay Kumar
+2023-06-02,Smart Speaker,Electronics,15,5563.66,10.4,74775.59,Central,Vijay Kumar
+2023-06-04,4K Monitor,Computing,1,31632.14,0.7,31410.72,Central,Amit Patel
+2023-06-05,Noise Cancelling Headphones,Accessories,16,9115.58,3.8,140307.01,Central,Amit Patel
+2023-06-05,Laser Printer,Computing,14,12417.87,13.3,150728.11,South,Rahul Sharma
+2023-06-06,Laser Printer,Computing,12,12945.04,16.2,130175.32,Central,Rahul Sharma
+2023-06-06,Tablet Ultra,Electronics,9,19251.74,2.4,169107.28,South,Priya Singh
+2023-06-07,Wireless Earbuds,Accessories,16,5084.08,8.8,74186.9,East,Sneha Gupta
+2023-06-07,Noise Cancelling Headphones,Accessories,6,7234.03,20.8,34376.11,Central,Priya Singh
+2023-06-07,LED Desk Lamp,Accessories,6,1257.14,21.6,5913.59,Central,Amit Patel
+2023-06-08,LED Desk Lamp,Accessories,14,1255.77,25.0,13185.58,Central,Sneha Gupta
+2023-06-08,Smartwatch Pro,Wearables,3,16897.28,23.6,38728.57,Central,Vijay Kumar
+2023-06-09,Mechanical Keyboard,Accessories,7,3980.07,10.1,25046.58,North,Sneha Gupta
+2023-06-11,Wi-Fi Router,Networking,2,4552.93,2.4,8887.32,South,Rahul Sharma
+2023-06-11,USB-C Hub,Accessories,12,1698.28,9.7,18402.56,Central,Vijay Kumar
+2023-06-11,Gaming Mouse,Accessories,23,2657.17,21.0,48280.78,South,Amit Patel
+2023-06-11,Network Switch,Networking,14,8889.88,26.4,91601.32,West,Sneha Gupta
+2023-06-11,Portable SSD,Computing,9,7032.99,26.8,46333.34,North,Priya Singh
+2023-06-12,Gaming Mouse,Accessories,9,2195.0,10.8,17621.46,North,Amit Patel
+2023-06-13,Mechanical Keyboard,Accessories,23,3088.5,26.2,52424.2,West,Priya Singh
+2023-06-15,Webcam HD,Computing,7,3489.21,4.2,23398.64,East,Rahul Sharma
+2023-06-16,4K Monitor,Computing,15,24419.16,25.4,273250.4,East,Rahul Sharma
+2023-06-18,Wireless Earbuds,Accessories,15,4454.17,12.2,58661.42,Central,Amit Patel
+2023-06-19,Webcam HD,Computing,20,2853.67,6.2,53534.85,South,Rahul Sharma
+2023-06-20,4K Monitor,Computing,14,27879.39,6.4,365331.53,West,Rahul Sharma
+2023-06-25,USB-C Hub,Accessories,20,1778.45,20.7,28206.22,East,Rahul Sharma
+2023-06-26,Power Bank 20000mAh,Accessories,22,2335.95,8.9,46817.11,Central,Vijay Kumar
+2023-06-26,Portable SSD,Computing,25,6443.48,29.6,113405.25,North,Rahul Sharma
+2023-06-28,Mechanical Keyboard,Accessories,4,3669.11,0.8,14559.03,North,Amit Patel
+2023-06-28,USB-C Hub,Accessories,23,2053.12,20.8,37399.63,Central,Amit Patel
+2023-06-29,4K Monitor,Computing,13,26377.32,20.7,271923.79,South,Priya Singh
+2023-06-30,4K Monitor,Computing,23,28150.85,1.5,637757.51,South,Rahul Sharma
+2023-07-02,Mechanical Keyboard,Accessories,19,3985.66,8.0,69669.34,North,Vijay Kumar
+2023-07-03,Smartphone X12,Electronics,11,29914.41,6.2,308656.88,South,Sneha Gupta
+2023-07-04,Gaming Mouse,Accessories,7,2381.3,23.0,12835.21,South,Priya Singh
+2023-07-04,Laser Printer,Computing,22,12963.42,0.8,282913.68,West,Priya Singh
+2023-07-06,Smart Speaker,Electronics,5,4779.12,23.3,18327.93,West,Rahul Sharma
+2023-07-09,Wireless Earbuds,Accessories,7,4117.12,14.5,24640.96,Central,Vijay Kumar
+2023-07-10,Smart Speaker,Electronics,24,6262.52,27.8,108516.95,North,Rahul Sharma
+2023-07-11,Laser Printer,Computing,9,11207.48,26.5,74137.48,North,Vijay Kumar
+2023-07-12,LED Desk Lamp,Accessories,11,1237.8,15.0,11573.43,North,Sneha Gupta
+2023-07-12,Tablet Ultra,Electronics,25,22578.05,20.1,450996.55,South,Sneha Gupta
+2023-07-14,Noise Cancelling Headphones,Accessories,9,6906.53,13.1,54015.97,Central,Vijay Kumar
+2023-07-14,Mechanical Keyboard,Accessories,4,3971.46,24.7,11962.04,North,Priya Singh
+2023-07-15,Network Switch,Networking,2,7909.58,20.2,12623.69,Central,Rahul Sharma
+2023-07-16,LED Desk Lamp,Accessories,23,1045.04,19.8,19276.81,East,Rahul Sharma
+2023-07-16,Smart Speaker,Electronics,8,5135.36,9.0,37385.42,East,Amit Patel
+2023-07-17,Laptop Pro 15,Electronics,13,52166.32,25.9,502518.16,East,Amit Patel
+2023-07-17,LED Desk Lamp,Accessories,6,1239.94,19.2,6011.23,West,Sneha Gupta
+2023-07-20,Smartwatch Pro,Wearables,11,16542.1,17.1,150847.41,South,Sneha Gupta
+2023-07-20,Power Bank 20000mAh,Accessories,15,1940.6,9.1,26460.08,West,Amit Patel
+2023-07-21,USB-C Hub,Accessories,15,1591.54,20.1,19074.61,West,Vijay Kumar
+2023-07-22,Mechanical Keyboard,Accessories,14,3095.52,6.7,40433.68,South,Amit Patel
+2023-07-22,Laptop Pro 15,Electronics,15,56521.35,11.7,748625.28,South,Priya Singh
+2023-07-23,Laptop Pro 15,Electronics,23,57473.09,16.3,1106414.46,South,Sneha Gupta
+2023-07-24,Smart Speaker,Electronics,4,4898.95,2.2,19164.69,South,Sneha Gupta
+2023-07-26,Gaming Mouse,Accessories,2,2718.33,26.6,3990.51,East,Amit Patel
+2023-07-26,Laser Printer,Computing,18,11176.08,16.9,167171.8,East,Priya Singh
+2023-08-09,Network Switch,Networking,14,8376.47,6.9,109178.91,East,Sneha Gupta
+2023-08-13,Smartphone X12,Electronics,19,38638.3,23.9,558671.18,East,Priya Singh
+2023-08-14,Network Switch,Networking,16,7784.53,13.1,108236.11,North,Sneha Gupta
+2023-08-15,Power Bank 20000mAh,Accessories,21,1911.72,24.7,30230.03,East,Sneha Gupta
+2023-08-15,Power Bank 20000mAh,Accessories,21,2243.26,28.1,33870.98,South,Amit Patel
+2023-08-18,Wi-Fi Router,Networking,4,4582.16,23.8,13966.42,South,Sneha Gupta
+2023-08-18,Webcam HD,Computing,11,2958.33,27.5,23592.68,East,Amit Patel
+2023-08-19,4K Monitor,Computing,10,31003.35,4.3,296702.06,West,Rahul Sharma
+2023-08-19,Mechanical Keyboard,Accessories,18,3278.1,23.4,45198.44,Central,Sneha Gupta
+2023-08-20,Power Bank 20000mAh,Accessories,25,2214.9,13.5,47897.21,West,Amit Patel
+2023-08-20,4K Monitor,Computing,10,29545.95,25.4,220412.79,North,Rahul Sharma
+2023-08-22,Mechanical Keyboard,Accessories,24,3028.92,14.4,62226.13,Central,Vijay Kumar
+2023-08-24,Noise Cancelling Headphones,Accessories,8,7905.5,4.7,60271.53,South,Rahul Sharma
+2023-08-24,Smartphone X12,Electronics,7,39213.37,20.8,217398.92,Central,Sneha Gupta
+2023-08-27,Portable SSD,Computing,6,5720.26,19.7,27560.21,East,Vijay Kumar
+2023-08-28,Noise Cancelling Headphones,Accessories,25,7785.86,9.5,176155.08,West,Sneha Gupta
+2023-08-28,Wireless Earbuds,Accessories,16,3858.78,26.5,45379.25,Central,Amit Patel
+2023-08-29,Wireless Earbuds,Accessories,18,4008.15,13.6,62334.75,Central,Sneha Gupta
+2023-08-31,Wireless Earbuds,Accessories,7,4919.45,17.6,28375.39,East,Vijay Kumar
+2023-08-31,DSLR Camera,Electronics,19,42543.06,22.1,629679.83,East,Vijay Kumar
+2023-09-01,Wi-Fi Router,Networking,9,4202.77,6.4,35404.13,South,Vijay Kumar
+2023-09-01,Tablet Ultra,Electronics,12,25183.71,5.0,287094.29,North,Amit Patel
+2023-09-02,Smartwatch Pro,Wearables,5,17857.23,3.4,86250.42,South,Sneha Gupta
+2023-09-02,Smartphone X12,Electronics,14,36458.99,18.7,414976.22,North,Rahul Sharma
+2023-09-02,Webcam HD,Computing,2,2954.7,27.7,4272.5,North,Sneha Gupta
+2023-09-03,Wireless Earbuds,Accessories,8,3893.53,27.2,22675.92,South,Priya Singh
+2023-09-04,Smartphone X12,Electronics,19,39692.97,2.6,734558.1,West,Rahul Sharma
+2023-09-06,Smart Speaker,Electronics,23,5672.26,6.1,122503.8,South,Vijay Kumar
+2023-09-06,Gaming Mouse,Accessories,15,2401.21,29.2,25500.85,South,Vijay Kumar
+2023-09-08,Tablet Ultra,Electronics,12,20580.92,13.1,214617.83,Central,Amit Patel
+2023-09-09,Power Bank 20000mAh,Accessories,21,2064.77,12.4,37983.51,Central,Sneha Gupta
+2023-09-12,Webcam HD,Computing,6,3500.94,28.0,15124.06,East,Priya Singh
+2023-09-12,USB-C Hub,Accessories,1,1670.82,7.1,1552.19,East,Amit Patel
+2023-09-12,Wireless Earbuds,Accessories,22,4722.34,5.0,98696.91,Central,Rahul Sharma
+2023-09-14,Power Bank 20000mAh,Accessories,1,1930.28,28.9,1372.43,Central,Vijay Kumar
+2023-09-14,Laser Printer,Computing,22,12920.08,23.0,218866.16,South,Rahul Sharma
+2023-09-22,Wireless Earbuds,Accessories,8,4514.41,15.6,30481.3,Central,Vijay Kumar
+2023-09-23,Graphics Tablet,Electronics,25,13862.58,19.1,280370.68,Central,Sneha Gupta
+2023-09-23,Wi-Fi Router,Networking,6,3846.24,22.5,17885.02,East,Rahul Sharma
+2023-09-23,LED Desk Lamp,Accessories,3,1027.85,1.9,3024.96,West,Priya Singh
+2023-09-25,USB-C Hub,Accessories,7,1891.65,9.4,11996.84,East,Sneha Gupta
+2023-09-25,Laptop Pro 15,Electronics,18,62173.51,17.4,924395.75,West,Amit Patel
+2023-09-26,Wireless Earbuds,Accessories,25,4176.39,13.4,90418.84,Central,Amit Patel
+2023-09-27,Network Switch,Networking,24,8715.69,26.9,152908.07,West,Amit Patel
+2023-09-28,Laser Printer,Computing,22,10492.27,7.2,214210.18,Central,Rahul Sharma
+2023-10-01,Wi-Fi Router,Networking,1,3739.41,9.0,3402.86,Central,Vijay Kumar
+2023-10-01,Laptop Pro 15,Electronics,1,49726.87,21.1,39234.5,East,Amit Patel
+2023-10-01,Wi-Fi Router,Networking,3,4272.5,2.4,12509.88,Central,Priya Singh
+2023-10-01,Portable SSD,Computing,13,5679.09,28.8,52565.66,West,Vijay Kumar
+2023-10-01,Gaming Mouse,Accessories,17,2864.12,20.4,38757.27,North,Priya Singh
+2023-10-02,Noise Cancelling Headphones,Accessories,3,7306.36,28.3,15715.98,East,Priya Singh
+2023-10-03,Laptop Pro 15,Electronics,19,47413.82,22.7,696366.77,West,Vijay Kumar
+2023-10-03,LED Desk Lamp,Accessories,21,1169.12,13.6,21212.51,North,Sneha Gupta
+2023-10-04,Portable SSD,Computing,4,5783.39,5.6,21838.08,West,Vijay Kumar
+2023-10-09,4K Monitor,Computing,15,24450.86,8.6,335221.29,East,Amit Patel
+2023-10-09,Smartwatch Pro,Wearables,20,18718.61,16.5,312600.79,East,Sneha Gupta
+2023-10-10,Mechanical Keyboard,Accessories,18,2985.66,28.4,38479.19,North,Priya Singh
+2023-10-12,LED Desk Lamp,Accessories,1,1293.17,4.8,1231.1,West,Amit Patel
+2023-10-12,Graphics Tablet,Electronics,6,17236.25,13.1,89869.81,West,Rahul Sharma
+2023-10-12,Wi-Fi Router,Networking,23,4523.6,11.1,92494.05,West,Amit Patel
+2023-10-17,Power Bank 20000mAh,Accessories,4,2419.53,8.9,8816.77,East,Priya Singh
+2023-10-17,USB-C Hub,Accessories,13,1781.78,19.5,18646.33,East,Amit Patel
+2023-10-18,Wi-Fi Router,Networking,3,3700.73,19.1,8981.67,Central,Amit Patel
+2023-10-18,USB-C Hub,Accessories,11,1825.55,3.9,19297.89,West,Amit Patel
+2023-10-19,Power Bank 20000mAh,Accessories,25,2491.24,0.8,61782.75,East,Priya Singh
+2023-10-21,Smart Speaker,Electronics,25,5993.12,18.2,122559.3,East,Priya Singh
+2023-10-21,Mechanical Keyboard,Accessories,1,3502.33,20.9,2770.34,West,Priya Singh
+2023-10-21,Wi-Fi Router,Networking,21,4255.15,23.0,68805.78,West,Sneha Gupta
+2023-10-22,Graphics Tablet,Electronics,22,15209.69,2.2,327251.69,East,Vijay Kumar
+2023-10-22,Smartphone X12,Electronics,23,30579.81,27.7,508511.66,East,Sneha Gupta
+2023-10-22,Laser Printer,Computing,11,11227.5,1.8,121279.46,North,Vijay Kumar
+2023-10-23,4K Monitor,Computing,23,26174.83,25.8,446699.65,North,Priya Singh
+2023-10-24,Wi-Fi Router,Networking,8,4378.94,21.9,27359.62,East,Vijay Kumar
+2023-10-26,Graphics Tablet,Electronics,23,13061.21,25.4,224104.24,West,Sneha Gupta
+2023-10-28,Network Switch,Networking,11,7486.62,9.8,74282.24,East,Amit Patel
+2023-10-30,Noise Cancelling Headphones,Accessories,18,7105.49,12.6,111783.57,West,Priya Singh
+2023-10-30,Tablet Ultra,Electronics,8,23406.52,2.5,182570.86,South,Sneha Gupta
+2023-11-01,4K Monitor,Computing,2,27577.75,10.5,49364.17,North,Sneha Gupta
+2023-11-03,DSLR Camera,Electronics,1,38870.88,23.9,29580.74,East,Amit Patel
+2023-11-03,Power Bank 20000mAh,Accessories,19,2092.01,24.8,29890.64,Central,Sneha Gupta
+2023-11-03,LED Desk Lamp,Accessories,16,1313.67,11.1,18685.64,North,Sneha Gupta
+2023-11-03,Tablet Ultra,Electronics,6,22422.12,17.0,111662.16,West,Vijay Kumar
+2023-11-04,Smartwatch Pro,Wearables,15,17007.36,22.6,197455.45,North,Rahul Sharma
+2023-11-04,Webcam HD,Computing,9,2778.52,28.5,17879.78,South,Sneha Gupta
+2023-11-05,Power Bank 20000mAh,Accessories,13,2231.64,0.0,29011.32,East,Priya Singh
+2023-11-05,Laser Printer,Computing,7,12962.46,22.9,69958.4,East,Amit Patel
+2023-11-06,USB-C Hub,Accessories,11,1603.68,4.7,16811.38,West,Sneha Gupta
+2023-11-07,Smartwatch Pro,Wearables,20,18180.78,15.1,308709.64,South,Vijay Kumar
+2023-11-07,Smartwatch Pro,Wearables,8,16664.48,4.6,127183.31,West,Sneha Gupta
+2023-11-08,Smartwatch Pro,Wearables,3,20667.16,3.6,59769.43,West,Vijay Kumar
+2023-11-08,Smartwatch Pro,Wearables,6,16174.62,28.0,69874.36,South,Amit Patel
+2023-11-11,Graphics Tablet,Electronics,6,14574.37,15.1,74241.84,East,Rahul Sharma
+2023-11-12,Wi-Fi Router,Networking,2,3664.62,29.5,5167.11,North,Rahul Sharma
+2023-11-12,LED Desk Lamp,Accessories,24,1333.96,18.9,25964.2,Central,Sneha Gupta
+2023-11-13,Smartphone X12,Electronics,15,30100.33,10.9,402290.91,South,Rahul Sharma
+2023-11-13,Network Switch,Networking,6,8475.61,2.7,49480.61,South,Vijay Kumar
+2023-11-14,4K Monitor,Computing,8,30575.13,4.4,233838.59,North,Priya Singh
+2023-11-16,Gaming Mouse,Accessories,12,2202.7,15.2,22414.68,South,Sneha Gupta
+2023-11-20,USB-C Hub,Accessories,5,1767.47,14.1,7591.28,East,Amit Patel
+2023-11-23,Noise Cancelling Headphones,Accessories,10,8563.7,19.0,69365.97,Central,Priya Singh
+2023-11-24,Tablet Ultra,Electronics,22,20993.01,1.9,453071.14,Central,Amit Patel
+2023-11-25,Power Bank 20000mAh,Accessories,8,2069.16,4.3,15841.49,Central,Priya Singh
+2023-11-25,Gaming Mouse,Accessories,20,2835.46,6.0,53306.65,East,Priya Singh
+2023-11-26,Webcam HD,Computing,15,3144.11,20.3,37587.84,Central,Sneha Gupta
+2023-11-26,Smartwatch Pro,Wearables,8,19411.96,20.3,123770.66,West,Priya Singh
+2023-11-28,Power Bank 20000mAh,Accessories,16,1882.85,27.9,21720.56,East,Priya Singh
+2023-11-28,4K Monitor,Computing,1,25263.67,1.6,24859.45,West,Vijay Kumar
+2023-11-29,4K Monitor,Computing,25,30318.4,6.9,705660.76,North,Amit Patel
+2023-11-29,Network Switch,Networking,22,8444.85,11.3,164792.8,South,Sneha Gupta
+2023-11-29,Power Bank 20000mAh,Accessories,13,1878.14,12.4,21388.26,North,Vijay Kumar
+2023-12-01,Gaming Mouse,Accessories,24,2436.63,6.0,54970.37,Central,Amit Patel
+2023-12-01,Network Switch,Networking,13,8720.41,22.9,87404.67,North,Amit Patel
+2023-12-02,Wi-Fi Router,Networking,3,3881.0,2.9,11305.35,South,Sneha Gupta
+2023-12-02,DSLR Camera,Electronics,17,44214.85,20.4,598315.35,Central,Sneha Gupta
+2023-12-03,Tablet Ultra,Electronics,22,24371.66,11.4,475052.4,East,Sneha Gupta
+2023-12-05,Laser Printer,Computing,21,10484.65,13.5,190453.67,East,Rahul Sharma
+2023-12-06,Tablet Ultra,Electronics,4,18981.8,13.8,65449.25,South,Vijay Kumar
+2023-12-07,Laser Printer,Computing,10,13645.27,0.5,135770.44,South,Rahul Sharma
+2023-12-10,Laptop Pro 15,Electronics,14,51237.68,1.9,703698.3,Central,Rahul Sharma
+2023-12-10,Laptop Pro 15,Electronics,1,59272.33,11.3,52574.56,East,Rahul Sharma
+2023-12-12,USB-C Hub,Accessories,25,2005.01,8.3,45964.85,West,Amit Patel
+2023-12-12,Network Switch,Networking,9,9171.57,14.7,70410.14,West,Sneha Gupta
+2023-12-13,Tablet Ultra,Electronics,1,22582.84,6.9,21024.62,South,Rahul Sharma
+2023-12-14,Gaming Mouse,Accessories,8,2374.8,5.0,18048.48,Central,Rahul Sharma
+2023-12-15,Smartwatch Pro,Wearables,23,16258.28,24.1,283820.79,East,Rahul Sharma
+2023-12-17,Network Switch,Networking,18,8128.43,23.2,112367.42,East,Vijay Kumar
+2023-12-18,Laser Printer,Computing,7,12674.99,25.6,66011.35,Central,Sneha Gupta
+2023-12-18,Wireless Earbuds,Accessories,23,3938.84,19.4,73018.22,North,Priya Singh
+2023-12-20,Webcam HD,Computing,24,3474.97,13.1,72473.97,Central,Rahul Sharma
+2023-12-20,Wireless Earbuds,Accessories,14,3974.7,20.3,44349.7,Central,Sneha Gupta
+2023-12-20,Smartwatch Pro,Wearables,1,17906.96,8.9,16313.24,North,Rahul Sharma
+2023-12-23,Smart Speaker,Electronics,14,5224.96,20.1,58446.4,South,Amit Patel
+2023-12-23,Smartwatch Pro,Wearables,10,17152.56,23.5,131217.08,Central,Sneha Gupta
+2023-12-26,LED Desk Lamp,Accessories,18,1121.19,16.2,16912.03,East,Amit Patel
+2023-12-27,DSLR Camera,Electronics,6,40139.44,16.4,201339.43,South,Vijay Kumar
+2023-12-27,Laptop Pro 15,Electronics,19,56049.51,16.9,884965.71,South,Sneha Gupta
+2023-12-30,Portable SSD,Computing,7,6831.84,21.1,37732.25,North,Vijay Kumar
+2023-12-31,4K Monitor,Computing,18,31705.6,13.0,496509.7,Central,Sneha Gupta
+2024-01-01,Laptop Pro 15,Electronics,3,52439.24,22.0,122707.82,North,Vijay Kumar
+2024-01-03,Wireless Earbuds,Accessories,12,4640.03,24.2,42205.71,West,Vijay Kumar
+2024-01-03,Smartphone X12,Electronics,1,34838.39,5.9,32782.92,West,Vijay Kumar
+2024-01-05,Wi-Fi Router,Networking,3,4544.08,16.3,11410.18,Central,Vijay Kumar
+2024-01-05,Laptop Pro 15,Electronics,18,56192.58,14.0,869861.14,Central,Priya Singh
+2024-01-05,Laptop Pro 15,Electronics,11,48927.72,25.8,399348.05,Central,Sneha Gupta
+2024-01-06,Webcam HD,Computing,21,3575.91,13.8,64731.12,South,Sneha Gupta
+2024-01-08,Laser Printer,Computing,14,10451.91,19.9,117207.72,East,Vijay Kumar
+2024-01-08,Noise Cancelling Headphones,Accessories,17,8722.63,20.4,118034.63,North,Priya Singh
+2024-01-10,Network Switch,Networking,3,9241.24,0.4,27612.83,Central,Rahul Sharma
+2024-01-12,Wireless Earbuds,Accessories,18,5042.29,19.3,73244.3,North,Sneha Gupta
+2024-01-12,Gaming Mouse,Accessories,20,2290.64,28.7,32664.53,West,Priya Singh
+2024-01-12,USB-C Hub,Accessories,10,1604.05,23.2,12319.1,South,Priya Singh
+2024-01-13,Mechanical Keyboard,Accessories,6,3611.19,28.9,15405.34,North,Priya Singh
+2024-01-13,Graphics Tablet,Electronics,22,16120.55,7.9,326634.58,West,Amit Patel
+2024-01-13,Smartphone X12,Electronics,10,30555.68,25.9,226417.59,North,Vijay Kumar
+2024-01-14,Smartphone X12,Electronics,19,35551.51,12.9,588341.94,North,Amit Patel
+2024-01-15,Smartwatch Pro,Wearables,17,18332.92,9.6,281740.31,West,Rahul Sharma
+2024-01-15,Laser Printer,Computing,11,11690.15,16.9,106859.66,South,Priya Singh
+2024-01-16,Smart Speaker,Electronics,18,6216.58,21.3,88064.07,Central,Rahul Sharma
+2024-01-17,Tablet Ultra,Electronics,4,22013.47,27.1,64191.28,South,Priya Singh
+2024-01-18,Noise Cancelling Headphones,Accessories,15,8959.07,13.5,116243.93,South,Priya Singh
+2024-01-18,Graphics Tablet,Electronics,14,15908.73,27.4,161696.33,Central,Priya Singh
+2024-01-21,USB-C Hub,Accessories,9,1970.91,11.8,15645.08,North,Vijay Kumar
+2024-01-23,Wireless Earbuds,Accessories,3,4570.25,24.9,10296.77,Central,Amit Patel
+2024-01-23,Smart Speaker,Electronics,12,5575.94,3.0,64903.94,West,Vijay Kumar
+2024-01-24,DSLR Camera,Electronics,1,51551.67,8.0,47427.54,West,Amit Patel
+2024-01-24,Wireless Earbuds,Accessories,13,4929.81,28.6,45758.5,South,Amit Patel
+2024-01-24,Noise Cancelling Headphones,Accessories,13,8126.48,1.7,103848.29,North,Priya Singh
+2024-01-25,Power Bank 20000mAh,Accessories,11,2160.55,12.9,20700.23,Central,Priya Singh
+2024-01-28,Portable SSD,Computing,5,5873.97,28.8,20911.33,North,Vijay Kumar
+2024-01-29,USB-C Hub,Accessories,25,1929.46,23.7,36804.45,North,Vijay Kumar
+2024-01-31,Smart Speaker,Electronics,4,5072.78,19.1,16415.52,North,Vijay Kumar
+2024-02-02,USB-C Hub,Accessories,20,1741.97,3.4,33654.86,East,Sneha Gupta
+2024-02-03,Webcam HD,Computing,25,3280.72,20.9,64876.24,Central,Sneha Gupta
+2024-02-03,Smartwatch Pro,Wearables,11,17247.78,2.7,184602.99,East,Sneha Gupta
+2024-02-04,Laptop Pro 15,Electronics,16,47468.32,11.6,671391.92,East,Amit Patel
+2024-02-05,Laptop Pro 15,Electronics,25,62675.54,1.0,1551219.61,Central,Amit Patel
+2024-02-07,Tablet Ultra,Electronics,17,21717.72,7.2,342618.75,Central,Amit Patel
+2024-02-07,USB-C Hub,Accessories,23,1979.23,9.8,41061.11,West,Amit Patel
+2024-02-09,Webcam HD,Computing,16,2748.3,20.5,34958.38,South,Amit Patel
+2024-02-10,Smart Speaker,Electronics,21,5432.11,7.9,105062.44,South,Vijay Kumar
+2024-02-10,Laptop Pro 15,Electronics,9,46883.62,26.0,312244.91,North,Vijay Kumar
+2024-02-10,Smartphone X12,Electronics,17,33676.6,11.6,506091.94,North,Amit Patel
+2024-02-10,Portable SSD,Computing,17,5620.45,9.0,86948.36,South,Rahul Sharma
+2024-02-11,Power Bank 20000mAh,Accessories,25,2085.41,19.0,42229.55,West,Sneha Gupta
+2024-02-12,Wi-Fi Router,Networking,18,3968.08,1.1,70639.76,South,Amit Patel
+2024-02-12,Tablet Ultra,Electronics,7,25089.65,24.7,132247.55,West,Amit Patel
+2024-02-14,Wi-Fi Router,Networking,22,4577.38,16.1,84489.28,North,Rahul Sharma
+2024-02-14,Smart Speaker,Electronics,8,4918.49,20.6,31242.25,North,Sneha Gupta
+2024-02-14,LED Desk Lamp,Accessories,25,1139.37,23.9,21676.51,North,Rahul Sharma
+2024-02-15,Laser Printer,Computing,12,12670.63,28.1,109322.2,North,Vijay Kumar
+2024-02-16,Smartphone X12,Electronics,15,32210.56,6.5,451753.1,North,Priya Singh
+2024-02-17,Smartphone X12,Electronics,24,33312.68,25.9,592432.7,South,Priya Singh
+2024-02-19,USB-C Hub,Accessories,24,1619.12,14.0,33418.64,South,Vijay Kumar
+2024-02-19,Webcam HD,Computing,23,3334.54,8.7,70022.01,West,Rahul Sharma
+2024-02-19,4K Monitor,Computing,21,25349.39,19.2,430128.45,West,Sneha Gupta
+2024-02-21,Network Switch,Networking,20,9136.17,27.8,131926.29,South,Priya Singh
+2024-02-23,Noise Cancelling Headphones,Accessories,25,7612.08,17.9,156237.94,East,Rahul Sharma
+2024-02-24,Webcam HD,Computing,19,2790.8,29.2,37541.84,North,Sneha Gupta
+2024-02-25,Wireless Earbuds,Accessories,12,5004.37,28.2,43117.65,West,Rahul Sharma
+2024-02-27,DSLR Camera,Electronics,1,40671.37,27.7,29405.4,West,Priya Singh
+2024-02-27,Network Switch,Networking,14,8646.08,4.0,116203.32,South,Amit Patel
+2024-02-29,Tablet Ultra,Electronics,14,20883.82,14.0,251441.19,North,Priya Singh
+2024-03-01,Noise Cancelling Headphones,Accessories,24,7028.21,12.8,147086.38,East,Amit Patel
+2024-03-02,Laser Printer,Computing,20,12500.37,14.9,212756.3,Central,Amit Patel
+2024-03-02,USB-C Hub,Accessories,14,1610.58,11.3,20000.18,Central,Sneha Gupta
+2024-03-05,Smartphone X12,Electronics,20,37793.56,26.5,555565.33,North,Priya Singh
+2024-03-08,Tablet Ultra,Electronics,2,18896.66,6.6,35298.96,Central,Vijay Kumar
+2024-03-08,DSLR Camera,Electronics,20,39107.62,11.4,692987.03,West,Vijay Kumar
+2024-03-09,Wi-Fi Router,Networking,7,4514.7,22.7,24429.04,South,Amit Patel
+2024-03-10,Gaming Mouse,Accessories,23,2312.57,25.4,39679.08,South,Sneha Gupta
+2024-03-10,Graphics Tablet,Electronics,16,15481.84,12.4,216993.47,South,Vijay Kumar
+2024-03-12,Graphics Tablet,Electronics,6,15853.94,10.5,85135.66,North,Amit Patel
+2024-03-15,LED Desk Lamp,Accessories,10,1224.71,1.8,12026.65,North,Priya Singh
+2024-03-15,4K Monitor,Computing,18,31986.19,24.6,434116.57,Central,Vijay Kumar
+2024-03-17,Wireless Earbuds,Accessories,12,4396.83,14.0,45375.29,North,Rahul Sharma
+2024-03-17,Portable SSD,Computing,5,6001.18,12.4,26285.17,South,Priya Singh
+2024-03-20,Tablet Ultra,Electronics,4,23718.44,21.1,74855.4,North,Sneha Gupta
+2024-03-21,Power Bank 20000mAh,Accessories,9,2292.05,23.7,15739.51,North,Rahul Sharma
+2024-03-22,Graphics Tablet,Electronics,24,15416.14,9.7,334098.59,South,Rahul Sharma
+2024-03-22,Smartphone X12,Electronics,1,34577.42,2.3,33782.14,East,Vijay Kumar
+2024-03-24,Power Bank 20000mAh,Accessories,2,1953.31,7.1,3629.25,East,Amit Patel
+2024-03-25,Graphics Tablet,Electronics,17,15102.37,4.8,244416.76,East,Amit Patel
+2024-03-26,Wireless Earbuds,Accessories,4,4535.03,13.7,15654.92,South,Sneha Gupta
+2024-03-26,Noise Cancelling Headphones,Accessories,13,7613.69,5.6,93435.2,West,Amit Patel
+2024-03-27,Portable SSD,Computing,15,7025.41,23.3,80827.34,Central,Vijay Kumar
+2024-03-27,Laptop Pro 15,Electronics,11,53659.87,12.4,517066.51,South,Sneha Gupta
+2024-03-27,DSLR Camera,Electronics,15,38259.13,28.7,409181.4,South,Priya Singh
+2024-03-30,Smart Speaker,Electronics,3,6158.79,9.7,16684.16,South,Rahul Sharma
+2024-03-31,Wi-Fi Router,Networking,1,3409.68,10.3,3058.48,North,Sneha Gupta
+2024-04-01,4K Monitor,Computing,12,27085.53,23.2,249620.24,Central,Vijay Kumar
+2024-04-04,Laser Printer,Computing,5,11718.77,8.4,53671.97,South,Rahul Sharma
+2024-04-04,Gaming Mouse,Accessories,8,2525.51,9.3,18325.1,West,Priya Singh
+2024-04-04,Noise Cancelling Headphones,Accessories,13,7701.55,20.5,79595.52,Central,Priya Singh
+2024-04-04,Tablet Ultra,Electronics,20,21862.95,12.0,384787.92,Central,Sneha Gupta
+2024-04-05,Mechanical Keyboard,Accessories,8,3122.92,1.5,24608.61,West,Vijay Kumar
+2024-04-06,Mechanical Keyboard,Accessories,8,3763.0,17.1,24956.22,West,Amit Patel
+2024-04-07,Laser Printer,Computing,10,11868.05,25.6,88298.29,North,Priya Singh
+2024-04-08,Noise Cancelling Headphones,Accessories,18,8595.39,7.5,143113.24,West,Rahul Sharma
+2024-04-09,Portable SSD,Computing,9,6122.91,6.9,51303.86,South,Amit Patel
+2024-04-11,Noise Cancelling Headphones,Accessories,11,8887.04,29.4,69016.75,South,Vijay Kumar
+2024-04-11,Wi-Fi Router,Networking,12,3472.54,19.1,33711.42,Central,Sneha Gupta
+2024-04-11,Smart Speaker,Electronics,17,5269.2,15.0,76139.94,Central,Priya Singh
+2024-04-14,DSLR Camera,Electronics,21,41723.08,5.6,827118.34,East,Amit Patel
+2024-04-16,Laser Printer,Computing,12,11298.69,23.9,103179.64,South,Priya Singh
+2024-04-17,Smartwatch Pro,Wearables,6,15571.54,11.4,82778.31,South,Sneha Gupta
+2024-04-18,Laptop Pro 15,Electronics,14,47644.37,15.6,562965.88,Central,Sneha Gupta
+2024-04-20,Smart Speaker,Electronics,25,5605.16,17.4,115746.55,Central,Vijay Kumar
+2024-04-25,Gaming Mouse,Accessories,16,2455.35,5.5,37124.89,North,Amit Patel
+2024-04-26,Tablet Ultra,Electronics,1,23643.56,1.6,23265.26,East,Priya Singh
+2024-04-27,Wi-Fi Router,Networking,24,4272.88,21.2,80808.71,Central,Priya Singh
+2024-04-28,Smart Speaker,Electronics,8,5428.7,4.3,41562.13,South,Vijay Kumar
+2024-04-29,LED Desk Lamp,Accessories,8,1302.46,24.2,7898.12,South,Rahul Sharma
+2024-04-29,Portable SSD,Computing,18,6560.3,12.8,102970.47,Central,Amit Patel
+2024-04-30,Smartwatch Pro,Wearables,3,15792.61,2.6,46146.01,West,Rahul Sharma
+2024-05-02,Portable SSD,Computing,4,6379.42,20.9,20184.48,East,Rahul Sharma
+2024-05-04,Smartwatch Pro,Wearables,3,16536.31,2.7,48269.49,North,Rahul Sharma
+2024-05-09,Gaming Mouse,Accessories,8,2728.52,20.5,17353.39,East,Sneha Gupta
+2024-05-13,Webcam HD,Computing,5,2902.3,6.5,13568.25,North,Vijay Kumar
+2024-05-13,DSLR Camera,Electronics,21,45504.62,27.6,691852.24,South,Vijay Kumar
+2024-05-15,Webcam HD,Computing,18,3447.84,20.7,49214.47,West,Sneha Gupta
+2024-05-15,Laser Printer,Computing,11,11927.29,16.8,109158.56,East,Amit Patel
+2024-05-16,DSLR Camera,Electronics,10,40144.0,9.4,363704.64,West,Vijay Kumar
+2024-05-19,Mechanical Keyboard,Accessories,5,3041.43,13.0,13230.22,West,Amit Patel
+2024-05-20,Network Switch,Networking,15,7430.13,1.2,110114.53,West,Amit Patel
+2024-05-21,Laptop Pro 15,Electronics,11,49750.36,6.4,512229.71,East,Amit Patel
+2024-05-21,Wi-Fi Router,Networking,14,4221.64,12.5,51715.09,West,Sneha Gupta
+2024-05-22,Webcam HD,Computing,10,3356.08,12.0,29533.5,Central,Rahul Sharma
+2024-05-22,Network Switch,Networking,2,9704.34,28.2,13935.43,West,Vijay Kumar
+2024-05-25,DSLR Camera,Electronics,17,44552.0,26.4,557434.62,West,Rahul Sharma
+2024-05-26,Tablet Ultra,Electronics,14,22956.39,9.9,289571.9,North,Vijay Kumar
+2024-05-27,4K Monitor,Computing,18,30800.18,24.2,420237.66,North,Sneha Gupta
+2024-05-28,Wi-Fi Router,Networking,9,4396.57,7.7,36522.31,West,Amit Patel
+2024-05-29,Portable SSD,Computing,11,6282.34,5.4,65374.03,East,Vijay Kumar
+2024-05-30,Graphics Tablet,Electronics,8,17004.37,1.3,134266.51,Central,Amit Patel
+2024-05-31,Graphics Tablet,Electronics,14,16487.56,16.4,192970.4,South,Sneha Gupta
+2024-06-02,Tablet Ultra,Electronics,21,20952.13,25.5,327796.07,West,Rahul Sharma
+2024-06-03,DSLR Camera,Electronics,4,50002.0,9.0,182007.28,Central,Vijay Kumar
+2024-06-03,Power Bank 20000mAh,Accessories,13,2175.39,16.6,23585.58,North,Sneha Gupta
+2024-06-05,Wi-Fi Router,Networking,7,4297.41,8.9,27404.58,North,Priya Singh
+2024-06-06,Wi-Fi Router,Networking,7,4487.11,10.5,28111.74,South,Priya Singh
+2024-06-06,Tablet Ultra,Electronics,15,24037.37,13.6,311524.32,Central,Sneha Gupta
+2024-06-07,Smartwatch Pro,Wearables,13,17558.49,4.1,218901.69,West,Sneha Gupta
+2024-06-07,Network Switch,Networking,4,8685.42,8.0,31962.35,Central,Amit Patel
+2024-06-08,Network Switch,Networking,14,7488.4,2.7,102006.98,Central,Rahul Sharma
+2024-06-09,Portable SSD,Computing,16,6433.71,24.1,78130.97,West,Amit Patel
+2024-06-11,Power Bank 20000mAh,Accessories,5,2086.46,18.4,8512.76,South,Sneha Gupta
+2024-06-12,4K Monitor,Computing,6,28436.05,9.9,153725.29,West,Sneha Gupta
+2024-06-13,Graphics Tablet,Electronics,12,13327.51,24.9,120107.52,Central,Vijay Kumar
+2024-06-17,4K Monitor,Computing,6,29556.65,5.1,168295.57,East,Amit Patel
+2024-06-18,DSLR Camera,Electronics,21,41896.11,24.2,666902.28,Central,Sneha Gupta
+2024-06-20,Smartphone X12,Electronics,2,38560.22,2.2,75423.79,North,Rahul Sharma
+2024-06-24,Power Bank 20000mAh,Accessories,14,1943.38,8.6,24867.49,East,Rahul Sharma
+2024-06-25,Power Bank 20000mAh,Accessories,1,2310.79,16.6,1927.2,North,Priya Singh
+2024-06-26,Laser Printer,Computing,8,11711.34,28.8,66707.79,South,Amit Patel
+2024-06-27,Power Bank 20000mAh,Accessories,10,2169.45,18.2,17746.1,North,Rahul Sharma
+2024-06-27,Tablet Ultra,Electronics,19,18755.93,19.5,286871.95,West,Amit Patel
+2024-06-30,DSLR Camera,Electronics,24,41554.95,13.9,858691.49,East,Vijay Kumar
